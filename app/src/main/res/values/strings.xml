@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TabbedActivity</string>
+
+    <string name="book_title_1">Война и мир</string>
+    <string name="book_title_2">Евгений Онегин</string>
+    <string name="book_title_3">Архипелаг ГУЛАГ</string>
+
+    <string name="book_author_1">Лев Толстой</string>
+    <string name="book_author_2">Александр Пушкин</string>
+    <string name="book_author_3">Александр Солженицын</string>
+
+    <string name="book_description_1">Эпический роман, охватывающий период войн Наполеона с Россией и события в России в начале XIX века.</string>
+    <string name="book_description_2">Роман в стихах, описывающий жизнь русской знати в начале XIX века и вопросы любви, чести и общественных нравов.</string>
+    <string name="book_description_3">Художественное исследование советской репрессивной системы и жизни в лагерях ГУЛАГа.</string>
+</resources>
